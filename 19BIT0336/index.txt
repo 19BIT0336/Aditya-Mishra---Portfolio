@@ -146,7 +146,11 @@
           <img src="https://img.icons8.com/bubbles/100/000000/services.png">
         </div>
       </div>
-      <div class="col-right">  
+      <div class="col-right">
+        <h1 class="section-title">About <span>me</span></h1>
+        <h2>IT Engineer with useful technical skills</h2>
+        <p> Technical skills in the fields of programming, web and app development.</p>
+        <a href="#" class="cta">Download Resume</a>
       </div>
     </div>
   </section>
